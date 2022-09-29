@@ -2,10 +2,10 @@
 
 This repository houses a JavaScript project for motion tracking.
 
-## Extra info
+## Extra Info
 
 This uses javascript to track curser movement on the screen with a set of eyes.
 
-##
+## To Run
 
-To run, open https://stardred.github.io/eyes/index.html
+Open https://stardred.github.io/eyes/index.html
